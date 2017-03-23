@@ -1,0 +1,11 @@
+{
+  "presets": [
+  	"react", 
+  	"latest",
+  ],
+  "plugins": [
+  	"transform-object-rest-spread",
+  	"transform-decorators-legacy",
+  	"add-module-exports"
+  ]
+}
